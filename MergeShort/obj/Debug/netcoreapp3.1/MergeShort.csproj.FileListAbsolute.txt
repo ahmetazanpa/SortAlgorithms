@@ -1,0 +1,13 @@
+D:\code\webCode\SortAlgorithms\MergeShort\bin\Debug\netcoreapp3.1\MergeShort.exe
+D:\code\webCode\SortAlgorithms\MergeShort\bin\Debug\netcoreapp3.1\MergeShort.deps.json
+D:\code\webCode\SortAlgorithms\MergeShort\bin\Debug\netcoreapp3.1\MergeShort.runtimeconfig.json
+D:\code\webCode\SortAlgorithms\MergeShort\bin\Debug\netcoreapp3.1\MergeShort.runtimeconfig.dev.json
+D:\code\webCode\SortAlgorithms\MergeShort\bin\Debug\netcoreapp3.1\MergeShort.dll
+D:\code\webCode\SortAlgorithms\MergeShort\bin\Debug\netcoreapp3.1\MergeShort.pdb
+D:\code\webCode\SortAlgorithms\MergeShort\obj\Debug\netcoreapp3.1\MergeShort.csprojAssemblyReference.cache
+D:\code\webCode\SortAlgorithms\MergeShort\obj\Debug\netcoreapp3.1\MergeShort.AssemblyInfoInputs.cache
+D:\code\webCode\SortAlgorithms\MergeShort\obj\Debug\netcoreapp3.1\MergeShort.AssemblyInfo.cs
+D:\code\webCode\SortAlgorithms\MergeShort\obj\Debug\netcoreapp3.1\MergeShort.csproj.CoreCompileInputs.cache
+D:\code\webCode\SortAlgorithms\MergeShort\obj\Debug\netcoreapp3.1\MergeShort.dll
+D:\code\webCode\SortAlgorithms\MergeShort\obj\Debug\netcoreapp3.1\MergeShort.pdb
+D:\code\webCode\SortAlgorithms\MergeShort\obj\Debug\netcoreapp3.1\MergeShort.genruntimeconfig.cache

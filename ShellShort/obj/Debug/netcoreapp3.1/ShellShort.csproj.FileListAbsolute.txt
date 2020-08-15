@@ -1,0 +1,13 @@
+D:\code\webCode\SortAlgorithms\ShellShort\bin\Debug\netcoreapp3.1\ShellShort.exe
+D:\code\webCode\SortAlgorithms\ShellShort\bin\Debug\netcoreapp3.1\ShellShort.deps.json
+D:\code\webCode\SortAlgorithms\ShellShort\bin\Debug\netcoreapp3.1\ShellShort.runtimeconfig.json
+D:\code\webCode\SortAlgorithms\ShellShort\bin\Debug\netcoreapp3.1\ShellShort.runtimeconfig.dev.json
+D:\code\webCode\SortAlgorithms\ShellShort\bin\Debug\netcoreapp3.1\ShellShort.dll
+D:\code\webCode\SortAlgorithms\ShellShort\bin\Debug\netcoreapp3.1\ShellShort.pdb
+D:\code\webCode\SortAlgorithms\ShellShort\obj\Debug\netcoreapp3.1\ShellShort.csprojAssemblyReference.cache
+D:\code\webCode\SortAlgorithms\ShellShort\obj\Debug\netcoreapp3.1\ShellShort.AssemblyInfoInputs.cache
+D:\code\webCode\SortAlgorithms\ShellShort\obj\Debug\netcoreapp3.1\ShellShort.AssemblyInfo.cs
+D:\code\webCode\SortAlgorithms\ShellShort\obj\Debug\netcoreapp3.1\ShellShort.csproj.CoreCompileInputs.cache
+D:\code\webCode\SortAlgorithms\ShellShort\obj\Debug\netcoreapp3.1\ShellShort.dll
+D:\code\webCode\SortAlgorithms\ShellShort\obj\Debug\netcoreapp3.1\ShellShort.pdb
+D:\code\webCode\SortAlgorithms\ShellShort\obj\Debug\netcoreapp3.1\ShellShort.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\code\webCode\SortAlgorithms\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.exe
+D:\code\webCode\SortAlgorithms\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.deps.json
+D:\code\webCode\SortAlgorithms\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.runtimeconfig.json
+D:\code\webCode\SortAlgorithms\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.runtimeconfig.dev.json
+D:\code\webCode\SortAlgorithms\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.dll
+D:\code\webCode\SortAlgorithms\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.pdb
+D:\code\webCode\SortAlgorithms\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.AssemblyInfoInputs.cache
+D:\code\webCode\SortAlgorithms\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.AssemblyInfo.cs
+D:\code\webCode\SortAlgorithms\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.csproj.CoreCompileInputs.cache
+D:\code\webCode\SortAlgorithms\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.dll
+D:\code\webCode\SortAlgorithms\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.pdb
+D:\code\webCode\SortAlgorithms\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.genruntimeconfig.cache

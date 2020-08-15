@@ -1,0 +1,12 @@
+D:\code\webCode\SortAlgorithms\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.AssemblyInfoInputs.cache
+D:\code\webCode\SortAlgorithms\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.AssemblyInfo.cs
+D:\code\webCode\SortAlgorithms\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.csproj.CoreCompileInputs.cache
+D:\code\webCode\SortAlgorithms\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.exe
+D:\code\webCode\SortAlgorithms\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.deps.json
+D:\code\webCode\SortAlgorithms\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.runtimeconfig.json
+D:\code\webCode\SortAlgorithms\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.runtimeconfig.dev.json
+D:\code\webCode\SortAlgorithms\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.dll
+D:\code\webCode\SortAlgorithms\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.pdb
+D:\code\webCode\SortAlgorithms\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.dll
+D:\code\webCode\SortAlgorithms\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.pdb
+D:\code\webCode\SortAlgorithms\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.genruntimeconfig.cache
